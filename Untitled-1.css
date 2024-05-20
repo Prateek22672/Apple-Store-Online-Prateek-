@@ -1,0 +1,327 @@
+/*-------------Brand names---------------*/
+
+.name {
+    color: white;
+    background-color: black;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'The Nautigal', sans-serif; 
+    text-align: center;
+    padding: 20px;
+    font-weight: lighter;
+    font-size:10px;
+}
+
+.namex {
+    font-size: 40px;
+}
+.x {
+    margin-left: 13px; /* Adjust this value to increase or decrease the spacing */
+    margin-right: 10px; /* Adjust this value to increase or decrease the spacing */
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.bn1 {
+    font-weight: lighter;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bn2 {
+    font-family: cursive;
+}
+
+.brand-name {
+    color: white;
+    font-family: 'Arizonia';
+    font-family: 'The Nautigal', sans-serif; 
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: black; /* Background color from brand-name */
+}
+
+.nx {
+    font-family: 'The Nautigal', sans-serif; /* Specify the correct font family name and fallback */
+    color: rgb(76, 66, 39);
+    font-size: 50px;
+}
+
+.nx1 {
+    font-family: 'The Nautigal', sans-serif; 
+    color: rgb(76, 66, 39);
+    margin-top: -30px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Arizonia';
+}
+
+.nx2 {
+    color: rgb(76, 66, 39);
+    margin-top: -10px;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nx3 {
+    width: 40px;
+    margin-top: -5px;
+}
+
+
+
+/*-------------intro_icons--------------*/
+
+.intro {
+    align-items: center;
+    display: flex;
+}
+.Search-bar {
+    height: 33px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(227, 217, 217);
+    width: 600px;
+}
+
+.Logo {
+    width: 35px; 
+    height: auto;
+    margin-right: 20px;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+.shop-symbol {
+    width: 30px;
+    margin-left: 20px; /* Adjust margin as needed */
+    height: auto;
+    opacity: 0.6;
+}
+
+.shop-symbol:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+
+/*----------------Black Edition code-----------*/
+
+
+.video-container {
+    width: 100%;
+    height: auto;
+    margin-top: -55px;
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 57%; /* 16:9 aspect ratio (change as needed) */
+}
+
+.video-container video {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* Add margin-top to create space between the search bar and video */
+.video-gap {
+    margin-top: 50px; /* Adjust the margin-top value as needed */
+}
+
+        
+.t {
+    width: 100%;
+    height: auto;
+    margin-top: -3px;
+}
+
+.nx1 {
+    
+}
+
+
+.newx {
+    background-color: black;
+    color: rgb(172, 42, 42);
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -15px;
+}
+
+.modelx {
+    background-color: black;
+    color: white;
+    margin-left: 150px; /* Move the text 50px from the left */
+    text-align: center; /* Center align the text */
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin-top: -30px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.og {
+    background-color: black;
+}
+
+.dj {
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'The Nautigal', sans-serif; 
+    font-weight: bolder;
+}
+
+.tagx {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    text-align: center;
+    font-weight: lighter;
+    margin-left: 15px;
+    margin-top: -29px;
+}
+
+.pricex {
+    color: white;
+    background-color: black;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+
+.z {
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+    margin-top: -19px;
+}
+
+.learnx {
+    background-color: rgb(0, 113, 227);
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 30px;
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 35px;
+    transition: 0.11s;
+}
+
+.learnx:hover {
+    background-color: rgb(8, 125, 241);
+    color: white;
+    cursor: pointer;
+}
+
+.buyx {
+    background-color: black;
+    color: rgb(8, 125, 241);
+    margin-right: 40px;
+    border-color: rgb(8, 125, 241);
+    border-bottom-color: rgb(8, 125, 241);
+    border-width: 0.89;
+    border-radius: 35px;
+    font-size: 20px;
+    width: 72px;
+    height: 40px;
+}
+
+.learnx:active {
+    opacity: 0.90;
+}
+
+.buyx:hover {
+    border: 0px;
+    background-color: rgb(8, 125, 241);
+    color: white;
+    cursor: pointer;
+}
+
+.buyx:active {
+    opacity: 0.90;
+}
+
+.b1 {
+    margin-top: -3px;
+    width: 100%;
+    height: auto;
+}
+
+.b2 {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: -80px;
+    border-radius: 200px;
+}
+
+.b2:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.b3 {
+    width: 100%;
+    height: auto;
+}
+/*
+.b3:hover {
+    transform: scale(1.011);
+    transition: transform 0.61s ease-in-out;
+    cursor: pointer;
+}
+*/
+
+.morex {
+    background-color: black;
+    text-align: center;
+    margin-top: -60px;
+    padding-bottom: 50px;
+}
+
+.applex {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 14px;
+}
+
+.applexx {
+    margin-top: -7px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(0,102,204);
+    padding-bottom: 50px;
+}
+
+.applexx:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(0,102,204);
+    cursor: pointer;
+    text-decoration: underline;
+}
